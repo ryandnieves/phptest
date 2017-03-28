@@ -1,5 +1,4 @@
 <?php
-  $message = 'This is a message';
-  echo $message;
+  echo 'this is a test';
 
 ?>
